@@ -2,19 +2,23 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="30006" started-at="2018-04-19T15:31:13Z" finished-at="2018-04-19T15:31:43Z">
+  <suite name="Suite" duration-ms="25814" started-at="2018-04-19T15:55:42Z" finished-at="2018-04-19T15:56:07Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="30006" started-at="2018-04-19T15:31:13Z" finished-at="2018-04-19T15:31:43Z">
+    <test name="Test" duration-ms="25814" started-at="2018-04-19T15:55:42Z" finished-at="2018-04-19T15:56:07Z">
       <class name="com.Pagefactory.amazonsearchbox">
-        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:com.Pagefactory.amazonsearchbox@42f93a98]" name="BeforeTest" duration-ms="20920" started-at="2018-04-19T15:31:13Z" finished-at="2018-04-19T15:31:34Z">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:com.Pagefactory.amazonsearchbox@9a7504c]" name="BeforeTest" duration-ms="14858" started-at="2018-04-19T15:55:42Z" finished-at="2018-04-19T15:55:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeTest -->
-        <test-method status="PASS" signature="amazon()[pri:1, instance:com.Pagefactory.amazonsearchbox@42f93a98]" name="amazon" duration-ms="9020" started-at="2018-04-19T15:31:34Z" finished-at="2018-04-19T15:31:43Z">
+        <test-method status="PASS" signature="amazon()[pri:1, instance:com.Pagefactory.amazonsearchbox@9a7504c]" name="amazon" duration-ms="7938" started-at="2018-04-19T15:55:57Z" finished-at="2018-04-19T15:56:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- amazon -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.Pagefactory.amazonsearchbox@9a7504c]" name="quit" is-config="true" duration-ms="2979" started-at="2018-04-19T15:56:04Z" finished-at="2018-04-19T15:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
       </class> <!-- com.Pagefactory.amazonsearchbox -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
